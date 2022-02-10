@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Colecciones">
+        <item>The 2018 Inferno Collection</item>
+        <item>The 2018 Nuke Collection</item>
+        <item>The Bank Collection</item>
+        <item>The Dust 2 Collection</item>
+        <item>The Italy Collection</item>
+        <item>The Lake Collection</item>
+        <item>The Safehouse Collection</item>
+        <item>The Train Collection</item>
+    </string-array>
+</resources>
