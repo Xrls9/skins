@@ -14,9 +14,9 @@ class Skin {
     constructor(
         _id: Int,
         _nombre: String,
-        _descripcion: String,
         _imagen: String,
         _url: String,
+        _descripcion: String,
         _idTipo: Int
     ) {
         this.id = _id

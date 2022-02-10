@@ -28,7 +28,6 @@ import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.wordsapp.databinding.FragmentLetterListBinding
-import kotlinx.android.synthetic.main.item_view.*
 import kotlinx.android.synthetic.main.item_view2.*
 
 /**
